@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @liza-sem
 - 👀 I’m interested in a Web Design + Dev
 - 🌱 I’m currently learning all sorts of things (pls help)
-- 💞️ I’m looking to collaborate on Web Design Projects
-- 📫 How to reach me liza@lizasem.com
+
 
 
 <!---
